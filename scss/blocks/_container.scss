@@ -1,9 +1,8 @@
 /* CONTAINER */
 .container {
-  width: 100%;
-  max-width: $width-container;
-  padding-left: $p-container;
-  padding-right: $p-container;
+  width: 1200px !important;
+  // padding-left: $p-container;
+  // padding-right: $p-container;
   margin-left: auto;
   margin-right: auto;
 }
